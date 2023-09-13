@@ -5,7 +5,7 @@ import insta from "../pics/insta.png";
 import EmbeddedLink from "../components/EmbeddedLink";
 import Event from "../components/Event"
 import logo from "../pics/logo.png"
-import "../home.css"
+import "./home.css"
 
 
 const Home = () => {
