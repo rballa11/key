@@ -3,7 +3,7 @@ import React from "react";
 
 
 import EmbeddedLink from "../components/EmbeddedLink";
-import Event from "../components/Event"
+
 import Logo from "../pics/logo.png"
 import "./home.css"
 
