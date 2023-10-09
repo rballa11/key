@@ -12,7 +12,7 @@ const Home = () => {
     return (
         <div>
             
-        <h1>ORHSKeyClub</h1>
+        <h1 className = "h1 display-1">ORHSKeyClub</h1>
         <EmbeddedLink link = "/leader" text = "Leadership"/>
         <img src = {Logo} alt = "ORHS Key Club Logo" width = "200" height = "200" />    
         <h2>Latest News - Remind : @orhskey24</h2>

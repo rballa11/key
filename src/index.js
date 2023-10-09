@@ -4,6 +4,9 @@ import { Route, Routes, BrowserRouter as Router } from "react-router-dom";
 
 import Home from "./pages/Home";
 import Leader from "./pages/Leader";
+import 'bootstrap/dist/css/bootstrap.css';
+
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
