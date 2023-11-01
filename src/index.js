@@ -13,7 +13,7 @@ root.render(
   <Router>
     <Routes>
       <Route path="/" element={<Home />} />
-      <Route path="/leader" element={<Leader />} />
+      <Route path="/leadership" element={<Leader />} />
     </Routes>
   </Router>
 );
