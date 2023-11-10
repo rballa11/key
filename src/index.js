@@ -4,6 +4,7 @@ import { Route, Routes, BrowserRouter as Router } from "react-router-dom";
 
 import Home from "./pages/Home";
 import Leader from "./pages/Leader";
+import Events from "./pages/Events";
 import 'bootstrap/dist/css/bootstrap.css';
 
 
@@ -14,6 +15,7 @@ root.render(
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/leadership" element={<Leader />} />
+      <Route path="/events" element={<Events />} />
     </Routes>
   </Router>
 );
