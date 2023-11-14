@@ -1,5 +1,5 @@
 import React from "react";
-import EmbeddedLink from "../components/EmbeddedLink";
+
 import NB from "../components/Navbar";
 import StretchedLink from "../components/StretchedLink";
 import volunteer from "../pics/volunteering.jpg";

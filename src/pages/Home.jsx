@@ -2,12 +2,12 @@
 import React from "react";
 
 
-import EmbeddedLink from "../components/EmbeddedLink";
+
 
 import Logo from "../pics/logo.png"
 import keyclub from "../pics/keyclub.png"
 import "./home.css"
-import InstantLink from "../components/InstantLink";
+
 import NB from "../components/Navbar";
 
 const Home = () => {

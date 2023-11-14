@@ -1,7 +1,7 @@
 import React from "react";
-import EmbeddedLink from "../components/EmbeddedLink";
+
 import Leadership from "../pics/leadership.png"
-import InstantLink from "../components/InstantLink";
+
 import NB from "../components/Navbar";
 const Leader = () => {
     return(
