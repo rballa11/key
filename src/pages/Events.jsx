@@ -1,5 +1,4 @@
 import React from "react";
-
 import NB from "../components/Navbar";
 import StretchedLink from "../components/StretchedLink";
 import volunteer from "../pics/volunteering.jpg";

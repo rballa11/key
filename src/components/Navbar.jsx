@@ -1,8 +1,7 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 //import { Navbar, Container, Nav } from 'react-bootstrap';
 //import InstantLink from './InstantLink';
-import EmbeddedButton from './EmbeddedButton';
-import logo from "../pics/logo.png";
+
 import download from "../pics/download.png";
 
 const NB = () => {

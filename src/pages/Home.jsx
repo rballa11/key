@@ -6,7 +6,7 @@ import React from "react";
 
 import Logo from "../pics/logo.png"
 import keyclub from "../pics/keyclub.png"
-import "./home.css"
+
 
 import NB from "../components/Navbar";
 
