@@ -1,22 +1,22 @@
 import React from 'react';
-import { set } from 'react-hook-form';
+
 
 const StretchedLink = ({title, context, link }) => {
         const [target, settarget] = React.useState("_blank");
     const a = () => {
-        if(link == "#"){
+        if(link === "#"){
             window.prompt("Work in Progress")
         }
         b()
     }
     const b = () => {
-        if(link == "#"){
+        if(link === "#"){
             settarget("_self")
         }
     }
     return(
         <div>
-            <div class="card" style= {{width: "18rem;"}} onClick = {() => a()}>
+            <div class="card" style= {{width: "100rem"}} onClick = {() => a()}>
                 {/*<img src="..." class="card-img-top" alt="..."/>*/}
                 <div class="card-body">
                 <h5 class="card-title">{title}</h5>
