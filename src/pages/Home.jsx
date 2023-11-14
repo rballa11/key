@@ -18,7 +18,7 @@ const Home = () => {
         <NB />
         {/*<InstantLink  link = "/" text = "Home" />*/}
         {/*<InstantLink  link = "/leadership" text = "Leadership" />*/}
-       <img src = {keyclub} alt = "Key Club" width = "1200" height = "1200" />
+       <img src = {keyclub} alt = "Key Club" width = "1400" height = "1400" />
         <img src = {Logo} alt = "ORHS Key Club Logo" width = "200" height = "200" style = {{marginLeft: 600}}/>    
         <h1 class = "h1 display-1" style = {{marginLeft: 300}}>Follow us on Instagram!</h1>
         

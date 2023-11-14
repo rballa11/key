@@ -16,7 +16,7 @@ const StretchedLink = ({title, context, link }) => {
     }
     return(
         <div>
-            <div class="card" style= {{width: "100rem"}} onClick = {() => a()}>
+            <div class="card" style= {{width: "10rem"}} onClick = {() => a()}>
                 {/*<img src="..." class="card-img-top" alt="..."/>*/}
                 <div class="card-body">
                 <h5 class="card-title">{title}</h5>
