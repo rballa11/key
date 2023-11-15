@@ -28,10 +28,10 @@ const NB = () => {
             <a class="nav-link text-white" href="/" style = {{ marginLeft: 650, fontWeight: "bold"}}>Home <span class="sr-only"></span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text-white" href="/leadership" style = {{ fontWeight: "bold"}}>Leadership</a>
+            <a class="nav-link text-white bg-primary" href="/leadership" style = {{ fontWeight: "bold"}}>Leadership</a>
           </li>
           <li class = "nav-item">
-            <a class = "nav-link text-white" href = "/events" style = {{fontWeight: "bold"}}>Events</a>
+            <a class = "nav-link text-white bg-primary" href = "/events" style = {{fontWeight: "bold"}}>Events</a>
           </li>
           </ul>
         </div>
