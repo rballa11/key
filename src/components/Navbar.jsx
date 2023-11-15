@@ -8,7 +8,7 @@ const NB = () => {
  
   return (
     <header>
-      <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+      <nav class="navbar navbar-expand-lg navbar-dark bg-primary" style={{width: "100%"}}>
         {/*<h1 className = "h1 display-1">ORHSKeyClub</h1>*/}
          <a class="navbar-brand display-1" href="/" style = {{fontSize: 30, fontWeight: "bold", marginLeft: 20}}>
          <img src={download} width="35" height="35" class="d-inline-block align-top" alt="" />
